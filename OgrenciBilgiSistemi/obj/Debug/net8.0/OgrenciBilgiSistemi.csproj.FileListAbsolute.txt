@@ -1,0 +1,14 @@
+C:\Works\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.exe
+C:\Works\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.deps.json
+C:\Works\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.runtimeconfig.json
+C:\Works\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.dll
+C:\Works\OgrenciBilgiSistemi\bin\Debug\net8.0\OgrenciBilgiSistemi.pdb
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.AssemblyInfoInputs.cache
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.AssemblyInfo.cs
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.dll
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\refint\OgrenciBilgiSistemi.dll
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.pdb
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\OgrenciBilgiSistemi.genruntimeconfig.cache
+C:\Works\OgrenciBilgiSistemi\obj\Debug\net8.0\ref\OgrenciBilgiSistemi.dll
